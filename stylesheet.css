@@ -67,6 +67,11 @@ tr{
   padding: 0px;
 }
 
+.recordtable {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 ul {
   list-style-type: none;
 }
